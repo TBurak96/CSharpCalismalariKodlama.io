@@ -7,8 +7,6 @@ namespace ClassMetotDemo
     {
         static void Main(string[] args)
         {
-            //Bir anlamayı olmadığını düşündüğümden ötürü simülasyonu veri girdili bir şekilde hazırlamadım.
-            //İlgili operasyonlara yalnızca basit ekran çıktısı kodu ekledim.
            
             
             
